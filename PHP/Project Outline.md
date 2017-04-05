@@ -15,4 +15,3 @@ Dynamic Security Protocols -> Application Layers (Sandboxing) -> Database Layers
 Database Synchronization -> Node2Node API Protocol
 
 
-Currently in development in partnership with Stratis Platform
