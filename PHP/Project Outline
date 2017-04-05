@@ -6,7 +6,7 @@ This project attempts to standardize private "side-chain" implementations capabl
 
 Dynamic Blockchain Database -> Public -> Private -> Semi-Private
 
-Dynamic Applications (PHP/xHTML) -> Execute PHP Scripting -> Load & Display xHTML/Javascript snippets
+Dynamic Applications (PHP/xHTML) -> Execute PHP Scripting -> Load & Display xHTML/Javascript snippets -> Node2Peer API Protocol (JSON, XML, ETC)
 
 Dynamic Database Compression -> Multiple Algorithms
 
