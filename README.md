@@ -15,6 +15,7 @@ Dynamic Blockchain Database
 Dynamic Applications (PHP/xHTML)
 -> Execute PHP Scripting
 -> Load & Display xHTML/Javascript snippets
+-> Node2Peer API Protocol (JSON, XML, ETC)
 
 Dynamic Database Compression
 -> Multiple Algorithms
