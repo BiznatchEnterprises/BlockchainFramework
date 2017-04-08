@@ -16,18 +16,27 @@ Dynamic Applications (PHP/xHTML)
 -> Execute PHP Scripting
 -> Load & Display xHTML/Javascript snippets
 
-Dynamic Database Compression
--> Multiple Algorithms
+Database Compression
+-> Simple, Key Pair, Key Tables, Randomized Key-Tables
 
-Dynamic Security Protocols
+Security Protocols
 -> Application Layers (Sandboxing)
 -> Database Layers (prevent data-corruption)
 -> Protocol Layers
+-> Governance & Legal
 
-Database Synchronization 
+Task-Automation
+-> Private Bitcoin wallet ownership (Local Wallet, Web-Wallet API)
+-> Autonomous Bitcoin wallet ownership (Chained-Random Nodes)
+
+Blockchain Applications
+-> Block Explorer Queury
+-> Bitcoin Wallet API
+-> Coinmarketcap API
 -> Node2Node API Protocol
 -> Bitcoin Node Protocol
 -> Node2Peer API Protocol [Sandboxed to Dynamic Applications] (JSON, XML, ETC)
+-> Dynamic Token Protocol
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
